@@ -35,8 +35,8 @@
   1. String methods: Reviewed `indexOf()` , `slice()` , `toUpperCase()` , `toLowerCase()` and `replace()` , 
   2. Switch Case: Create conditionals with switch() case:
 * :hammer_and_wrench: Exercises
-  0. Repetition exercise ( using `splice()` to manipulate items in arrays )
-  1. Going through 2 arrays simultaneously ( a loop in a loop)
-  2. Using the string methods we learned in Lesson 1
-  3. Homework assignment
+  1. Repetition exercise ( using `splice()` to manipulate items in arrays )
+  2. Going through 2 arrays simultaneously ( a loop in a loop)
+  3. Using the string methods we learned in Lesson 1
+  4. Homework assignment
 ---

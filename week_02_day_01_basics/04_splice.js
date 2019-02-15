@@ -6,7 +6,7 @@
 //array.splice(start[, deleteCount[, item1[, item2[, ...]]]])
 
 var months = ['Jan', 'March', 'April', 'June'];
-months.splice(1, 2, 'Feb');
+months.splice(1, 3, 'Feb');
 // inserts at 1st index position
 console.log(months);
 // expected output: Array ['Jan', 'Feb', 'March', 'April', 'June']

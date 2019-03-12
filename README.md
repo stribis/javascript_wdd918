@@ -40,3 +40,23 @@
   3. Using the string methods we learned in Lesson 1
   4. Homework assignment
 ---
+### :calendar: Week 3
+#### Day 1
+* :notebook: Lesson
+  1. Functions - Function declarations, expressions and more: `function example(){}` 
+  2. Objects - Object structure, methods and object literals: `let myObj = { }` 
+* :hammer_and_wrench: Exercises
+  1. Repetition 1: Switch Case number guesser exercise
+  2. Exercise 1: Handling JSON Data
+#### Day 2
+* :notebook: Lesson
+  1. Using `continue` and `break` in loops 
+  2. Different things we can do with `console`
+  3. More forms of loops:
+    * `do while` 
+    * `while` 
+    * `foreach` 
+* :hammer_and_wrench: Exercises
+  1. Repetition exercise: Working with functions
+
+---

@@ -1,7 +1,14 @@
 # JavaScript WDD 918 - SAE Zürich
 ##### Author: Martin Hutchings
 ##### :exclamation: Make sure you link the JS files to an HTML file to view in browser :exclamation:
+---
 ## Table of contents
+|Week   |Link   |
+| ---   | ---   |
+|:one:    |[Basics: Syntax, variables, data types...](https://github.com/stribis/javascript_wdd918#calendar-week-1)|
+|:two:   |[Basics: Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd918#calendar-week-2)|
+|:three:    |[Basics: Functions, objects, continue, break...](https://github.com/stribis/javascript_wdd918#calendar-week-3)|
+|:four:    |[DOM: Selection, remove, appendChild, innerHTML...](https://github.com/stribis/javascript_wdd918#calendar-week-4)|
 ---
 ### :calendar: Week 1
 #### Day 1
@@ -60,3 +67,19 @@
   1. Repetition exercise: Working with functions
 
 ---
+### :calendar: Week 4
+#### Day 1
+* :notebook: Lesson
+  1. DOM Manipulation : Introduced some basics of DOM Element selection like `getElementById()`, `getElementsByClassName()`, `getElementsByTagName()`, `documentQuerySelector()` & `document.querySelectorAll()`. In addition to changing the style property with `element.style.property = `  
+* :hammer_and_wrench: Exercises
+  1. Huge repetition exercise that goes over most of the JS we have seen  so far
+#### Day 2
+* :notebook: Lesson
+  1. We checked out ES6 variable scope with `let` and `const`
+  2. We looked into template strings (template literals) and worked with interpolation using backticks \`\` and `${variable}` 
+  3. We continued looking into DOM manipulation this time looking into creating new elements and changing the content of existing elements with: `document.createElement()`, `element.appendChild()` & `element.innerHTML = ''`
+* :hammer_and_wrench: Exercises
+  1. Click event Exercise: Using a click event, create an insert new elements into an already existing element, and remove element from an already existing element:  `element.addEventListener('click', function(){//code})`
+
+---
+

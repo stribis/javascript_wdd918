@@ -26,36 +26,6 @@
 
 // Code
 
-var person = {
-  name: {
-    first: 'John',
-    last: 'Smith'
-  },
-  age: 54,
-  hobbies: ['Golf', 'Reading', 'Swimming'],
-  greeting: function(){
-    console.log('My name is ' + this.name.first +' ' + this.name.last + ' and I am ' + this.age + ' years old')
-  },
-  books: [
-    {
-      author: 'J.K Rowling',
-      name:   'Harry Potter'
-    },
-    {
-      author: 'Stephen King',
-      name:   'Pet Sematary'
-    },
-    {
-      author: 'Herman Melville',
-      name:   'Moby Dick'
-    }
-  ],
-  social: function(){
-    console.log('My favorite book is '+ this.books[1].name +' by '+ this.books[1].author)
-  }
-
-}
-person.social()
 
 /**
  * 2. Create a function
@@ -67,16 +37,6 @@ person.social()
 **/
 
 // Code
-function byebyeO(sentence){
-  var small = sentence.toLowerCase()
-
-  for (let i = 0; i < small.length; i++) {
-    small = small.replace('o', '' )
-  }
-  return small
-}
-
-console.log(byebyeO('The quick brown fox jumps over the lazy dog'))
 
 /**
  * 3. Create a function that takes in a number
@@ -87,7 +47,7 @@ console.log(byebyeO('The quick brown fox jumps over the lazy dog'))
  *        If it isnt a prime then log ? 'Your number: <number>, is not prime!  
 **/
 
-// Code
+//Code
 
 /**
  * 4. Using your object from before , list all of John's books  names and authors into a console table to get a better perspective

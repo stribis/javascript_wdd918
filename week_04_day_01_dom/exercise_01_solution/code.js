@@ -106,7 +106,7 @@ isPrime(7)
  * 4. Using your object from before , list all of John's books  names and authors into a console table to get a better perspective
  * - John got a new book for his birthday.
  *   Add a new book to john's library: Great Expectations by Charles Dickens
- * - John has been very busy reading his books and has lost interest in some of his hobbies, remove gold and swimming from his hobbies
+ * - John has been very busy reading his books and has lost interest in some of his hobbies, remove golf and swimming from his hobbies
  *   Add two new item's to John's hobbies: Book Club and Writing
 **/
 

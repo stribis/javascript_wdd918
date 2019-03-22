@@ -9,6 +9,7 @@
 |:two:   |[Basics: Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd918#calendar-week-2)|
 |:three:    |[Basics: Functions, objects, continue, break...](https://github.com/stribis/javascript_wdd918#calendar-week-3)|
 |:four:    |[DOM: Selection, remove, appendChild, innerHTML...](https://github.com/stribis/javascript_wdd918#calendar-week-4)|
+|:Five:    |[Events and input fields and form validation ...](https://github.com/stribis/javascript_wdd918#calendar-week-5)|
 ---
 ### :calendar: Week 1
 #### Day 1
@@ -80,6 +81,21 @@
   3. We continued looking into DOM manipulation this time looking into creating new elements and changing the content of existing elements with: `document.createElement()`, `element.appendChild()` & `element.innerHTML = ''`
 * :hammer_and_wrench: Exercises
   1. Click event Exercise: Using a click event, create an insert new elements into an already existing element, and remove element from an already existing element:  `element.addEventListener('click', function(){//code})`
+
+---
+
+### :calendar: Week 5
+#### Day 1
+* :notebook: Lesson
+  1. Click events and Input events: Checked out `addEventListener()` and the event object returned in the callback function
+  2. More events: reviewed a couple of other events like `mouseOver`, `keyPressed` and more
+* :hammer_and_wrench: Exercises
+  1. Story Exercise. Create an interactive story by reading input information after a click event
+#### Day 2
+* :notebook: Lesson
+  1. Form Validation: We checked out how to validate a small form, and worked with function, conditionals, loops, events and many other things!
+* :hammer_and_wrench: Exercises
+  1. No exercise
 
 ---
 

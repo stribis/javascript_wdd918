@@ -9,7 +9,7 @@
 |:two:   |[Basics: Alert, confirm, prompt arrays and strings...](https://github.com/stribis/javascript_wdd918#calendar-week-2)|
 |:three:    |[Basics: Functions, objects, continue, break...](https://github.com/stribis/javascript_wdd918#calendar-week-3)|
 |:four:    |[DOM: Selection, remove, appendChild, innerHTML...](https://github.com/stribis/javascript_wdd918#calendar-week-4)|
-|:Five:    |[Events and input fields and form validation ...](https://github.com/stribis/javascript_wdd918#calendar-week-5)|
+|:five:    |[Events and input fields and form validation ...](https://github.com/stribis/javascript_wdd918#calendar-week-5)|
 ---
 ### :calendar: Week 1
 #### Day 1

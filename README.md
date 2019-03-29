@@ -69,6 +69,7 @@
   1. Repetition exercise: Working with functions
 
 ---
+
 ### :calendar: Week 4
 #### Day 1
 * :notebook: Lesson

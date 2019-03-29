@@ -10,6 +10,7 @@
 |:three:    |[Basics: Functions, objects, continue, break...](https://github.com/stribis/javascript_wdd918#calendar-week-3)|
 |:four:    |[DOM: Selection, remove, appendChild, innerHTML...](https://github.com/stribis/javascript_wdd918#calendar-week-4)|
 |:Five:    |[Events and input fields and form validation ...](https://github.com/stribis/javascript_wdd918#calendar-week-5)|
+|:Five:    |[JS loading and thumbnail image gallery ...](https://github.com/stribis/javascript_wdd918#calendar-week-6)|
 ---
 ### :calendar: Week 1
 #### Day 1
@@ -96,6 +97,22 @@
   1. Form Validation: We checked out how to validate a small form, and worked with function, conditionals, loops, events and many other things!
 * :hammer_and_wrench: Exercises
   1. No exercise
+
+---
+
+### :calendar: Week 6
+#### Day 1
+* :notebook: Lesson
+  1. Click events and Input events: Checked out `addEventListener()` and the event object returned in the callback function
+  2. More events: reviewed a couple of other events like `mouseOver`, `keyPressed` and more
+* :hammer_and_wrench: Exercises
+  1. Story Exercise. Create an interactive story by reading input information after a click event
+#### Day 2
+* :notebook: Lesson
+  1. Check the different ways in which we can load javascript into an HTML file and also how to add event's that will wait for content to load and the DOM to be loaded. (`onDOMContentLoaded`, `window.onload()`, `defer`  ). Check out 'simple.js' for the 2 lines of code version!
+  2. We created a very simple thumbnail image gallery using only vanilla JS (also learned more about `Array.forEach()` and arrow functions)
+* :hammer_and_wrench: Exercises
+  1. Dedicated some time to the Module project.
 
 ---
 

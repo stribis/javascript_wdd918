@@ -1,0 +1,45 @@
+/* === Small CSS Reset === */
+*{
+  margin: 5px;
+  padding: 0;
+}
+*, *::after, *::before{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.tracker{
+  width: 500px;
+  height: 500px;
+  background-color: #555;
+  border: solid 2px black;
+}
+
+section button{
+  background-color: lightcoral;
+  border: 2px solid #222;
+  width: 200px;
+  padding: 1em 0;
+}
+
+button.clicked{
+  border: solid 2px green;
+  background-color: greenyellow;
+}
+
+.tracker.active{
+  border: solid 5px greenyellow;;
+  /* background-color: greenyellow; */
+}
+
+.rounded{
+  border-radius : 33%;
+}
+
+.container{
+  display: flex;
+}
+
+.bold{
+  font-weight: bolder;
+}
